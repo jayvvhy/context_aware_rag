@@ -25,7 +25,7 @@ def get_rag():
 
 
 st.set_page_config(page_title="Stanford Admin Guide RAG", page_icon="📘")
-st.title("📘 Stanford Admin Guide Chatbot")
+st.title("📘 Context Aware RAG for Stanford Admin Guide")
 
 rag = get_rag()
 
